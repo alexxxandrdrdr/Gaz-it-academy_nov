@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\bin\Debug\netcoreapp2.1\MyFirstEF.deps.json
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\bin\Debug\netcoreapp2.1\MyFirstEF.runtimeconfig.json
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\bin\Debug\netcoreapp2.1\MyFirstEF.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\bin\Debug\netcoreapp2.1\MyFirstEF.dll
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\bin\Debug\netcoreapp2.1\MyFirstEF.pdb
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.dll
+C:\Users\Administrator\Downloads\20487\Allfiles\Mod03\DemoFiles\FirstWebApi\Starter\obj\Debug\netcoreapp2.1\MyFirstEF.pdb

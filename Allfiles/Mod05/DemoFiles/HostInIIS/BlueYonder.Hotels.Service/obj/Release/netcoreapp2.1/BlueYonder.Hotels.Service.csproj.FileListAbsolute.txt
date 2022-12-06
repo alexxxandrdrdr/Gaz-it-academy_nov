@@ -1,0 +1,14 @@
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\bin\Release\netcoreapp2.1\BlueYonder.Hotels.Service.deps.json
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\bin\Release\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.json
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\bin\Release\netcoreapp2.1\BlueYonder.Hotels.Service.runtimeconfig.dev.json
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\bin\Release\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\bin\Release\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.csprojAssemblyReference.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.csproj.CoreCompileInputs.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.RazorAssemblyInfo.cs
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfoInputs.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.AssemblyInfo.cs
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.RazorTargetAssemblyInfo.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.dll
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod05\DemoFiles\HostInIIS\BlueYonder.Hotels.Service\obj\Release\netcoreapp2.1\BlueYonder.Hotels.Service.pdb
